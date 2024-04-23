@@ -2,4 +2,4 @@
 <h3>Made with love using JavaScript</h3>
 <b style="font-weight:700; font-size:35px">By Noder SS</b>
 <h1 style="font-weight:900;">HAPPY HACKING</h1>
-<h6>(Don't forget to smile)</h6><i></i>
+<h6><i>(Don't forget to smile)</i></h6>
